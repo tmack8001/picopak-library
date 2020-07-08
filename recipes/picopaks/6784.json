@@ -1,0 +1,1 @@
+{"PicoRecipeID":6784,"PicoBeerID":548,"Name":"Boil Routing","Abv":-1,"Ibu":-1,"Steps":[{"Name":"Heating","Action":0,"Location":1,"Temp":203,"Time":2,"Drain":0,"MaxTime":null,"MinTime":null},{"Name":"30 min boil","Action":0,"Location":2,"Temp":203,"Time":30,"Drain":3,"MaxTime":null,"MinTime":null}]}

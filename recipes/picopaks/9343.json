@@ -1,0 +1,1 @@
+{"PicoRecipeID":9343,"PicoBeerID":687,"Name":"cascara hard seltzer","Abv":5,"Ibu":5,"Steps":[{"Name":"heat over sugar","Action":0,"Location":2,"Temp":200,"Time":5,"Drain":0,"MaxTime":null,"MinTime":null},{"Name":"flavor extraction","Action":0,"Location":4,"Temp":200,"Time":15,"Drain":4,"MaxTime":null,"MinTime":null}]}

@@ -1,0 +1,1 @@
+{"PicoRecipeID":6144,"PicoBeerID":508,"Name":"Rehydration sport drink","Abv":-1,"Ibu":-1,"Steps":[{"Name":"Heat Adj 1","Action":0,"Location":3,"Temp":195,"Time":15,"Drain":0,"MaxTime":null,"MinTime":null},{"Name":"Extract Adj 4","Action":0,"Location":6,"Temp":185,"Time":2,"Drain":1,"MaxTime":null,"MinTime":null}]}

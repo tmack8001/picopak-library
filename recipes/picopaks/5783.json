@@ -1,0 +1,1 @@
+{"PicoRecipeID":5783,"PicoBeerID":470,"Name":"Anti-oxidant","Abv":-1,"Ibu":-1,"Steps":[{"Name":"Ingredient Extraction","Action":0,"Location":4,"Temp":152,"Time":20,"Drain":0,"MaxTime":null,"MinTime":null},{"Name":"Heat to 190","Action":0,"Location":4,"Temp":190,"Time":0,"Drain":1,"MaxTime":null,"MinTime":null}]}

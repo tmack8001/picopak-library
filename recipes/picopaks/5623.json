@@ -1,0 +1,1 @@
+{"PicoRecipeID":5623,"PicoBeerID":462,"Name":"dry soda","Abv":-1,"Ibu":-1,"Steps":[{"Name":"Heat Adj 2","Action":0,"Location":4,"Temp":190,"Time":15,"Drain":0,"MaxTime":null,"MinTime":null},{"Name":"Flavor Adj 3","Action":0,"Location":5,"Temp":190,"Time":15,"Drain":1,"MaxTime":null,"MinTime":null}]}

@@ -1,0 +1,1 @@
+{"PicoRecipeID":8198,"PicoBeerID":650,"Name":"Eggnog","Abv":-1,"Ibu":-1,"Steps":[{"Name":"sugar and egg","Action":0,"Location":4,"Temp":100,"Time":10,"Drain":0,"MaxTime":null,"MinTime":null},{"Name":"heating","Action":0,"Location":4,"Temp":165,"Time":10,"Drain":1,"MaxTime":null,"MinTime":null}]}

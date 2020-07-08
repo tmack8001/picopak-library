@@ -1,0 +1,1 @@
+{"PicoRecipeID":5987,"PicoBeerID":495,"Name":"Black Rice Horchata","Abv":5,"Ibu":5,"Steps":[{"Name":"Extracting Rice","Action":0,"Location":4,"Temp":195,"Time":30,"Drain":0,"MaxTime":null,"MinTime":null},{"Name":"cinnamon","Action":0,"Location":6,"Temp":190,"Time":4,"Drain":0,"MaxTime":8,"MinTime":2}]}

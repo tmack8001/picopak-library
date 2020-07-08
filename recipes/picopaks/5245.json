@@ -1,0 +1,1 @@
+{"PicoRecipeID":5245,"PicoBeerID":447,"Name":"coffee tea","Abv":5,"Ibu":5,"Steps":[{"Name":"Heat over sugar","Action":0,"Location":3,"Temp":195,"Time":0,"Drain":0,"MaxTime":null,"MinTime":null},{"Name":"Extract Adj 3","Action":0,"Location":5,"Temp":195,"Time":4,"Drain":1,"MaxTime":null,"MinTime":null}]}
